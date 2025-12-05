@@ -41,6 +41,13 @@
   **Стек:** React + TypeScript (фронт), NestJS + PostgreSQL (бэк), Docker, CI/CD, HTTPS  
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alex-Ven/film-react-nest)
 
+- **Weblarek (Bad Server)**  
+   Fullstack-проект в стиле маркетплейса.  
+   **Стек:** React + TypeScript (фронт, динамическая корзина, модальные окна, обработка событий), Node.js + Express (бэк, REST API для товаров и заказов).  
+   **Деплой:** На Render.  
+   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alex-Ven/bad-server)  
+   [![Live Demo](https://img.shields.io/badge/Live_Demo-007ACC?style=for-the-badge&logo=render&logoColor=white)](https://weblarek-bad-server-frontend.onrender.com)
+   
 ---
 
 ### 📬 Контакты и статус
