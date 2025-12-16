@@ -36,10 +36,12 @@
 
 ### 🚀 Проекты
 
-- **[Афиша Фильмов](https://afisha.justforstudy.nomorepartiessbs.ru)**  
+- **Афиша Фильмов**  
   Fullstack-приложение для управления кинопрокатом.  
-  **Стек:** React + TypeScript (фронт), NestJS + PostgreSQL (бэк), Docker, CI/CD, HTTPS  
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alex-Ven/film-react-nest)
+  **Стек:** React + TypeScript (фронт), NestJS + PostgreSQL (бэк), Docker, CI/CD, HTTPS    
+  **Деплой:** На Yandex.cloud.  
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alex-Ven/film-react-nest)  
+  [![Live Demo](https://img.shields.io/badge/Live_Demo-007ACC?style=for-the-badge&logo=render&logoColor=white)](https://afisha.justforstudy.nomorepartiessbs.ru)
 
 - **Weblarek (Bad Server)**  
    Fullstack-проект в стиле маркетплейса.  
@@ -47,6 +49,30 @@
    **Деплой:** На Render.  
    [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alex-Ven/bad-server)  
    [![Live Demo](https://img.shields.io/badge/Live_Demo-007ACC?style=for-the-badge&logo=render&logoColor=white)](https://weblarek-bad-server-frontend.onrender.com)
+
+   ### Другие мои проекты (все на Vercel)
+
+Вот несколько проектов, которые я сделал для практики фронтенда:
+
+- **Oblique Strategies** — цифровая версия знаменитой колоды Brian Eno для преодоления творческих блоков (Vanilla JS, интерактивные карточки)  
+
+  https://karty-podskazhut-my.vercel.app
+
+- **Look Out the Window** — поиск видео с видом из окна по городу и времени суток (API интеграция, динамический UI)  
+
+  https://look-out-the-window.vercel.app
+
+- **Hard to Focus** — статья о концентрации внимания с красивым дизайном и темингом (продвинутый CSS, BEM)  
+
+  https://slozhno-sosredotochitsya-mu.vercel.app
+
+- **Closing Tag** — эмоциональный сторителлинг о пути изучения фронтенда (семантика, анимации, responsive)  
+
+  https://closing-tag-weld.vercel.app
+
+Все проекты доступны в моём профиле Vercel:  
+
+https://vercel.com/alex-vens-projects
    
 ---
 
