@@ -41,7 +41,7 @@
   **Стек:** React + TypeScript (фронт), NestJS + PostgreSQL (бэк), Docker, CI/CD, HTTPS    
   **Деплой:** На Yandex.cloud.  
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alex-Ven/film-react-nest)  
-  [![Live Demo](https://img.shields.io/badge/Live_Demo-007ACC?style=for-the-badge&logo=render&logoColor=white)](https://afisha.justforstudy.nomorepartiessbs.ru)
+  [![Live Demo](https://img.shields.io/badge/Live_Demo-007ACC?style=for-the-badge&logo=render&logoColor=white)](https://afishajustforstudy.ru))
 
 - **Weblarek (Bad Server)**  
    Fullstack-проект в стиле маркетплейса.  
