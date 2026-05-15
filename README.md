@@ -50,12 +50,27 @@
    [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alex-Ven/bad-server)  
    [![Live Demo](https://img.shields.io/badge/Live_Demo-007ACC?style=for-the-badge&logo=render&logoColor=white)](https://weblarek-bad-server-frontend.onrender.com)
 
-### Командные проекты
 
-- Yandex Development — Telegram Mini App + Web Platform  
-  https://github.com/yandex-development-1-team/web
+### 👥 Team Experience
 
-   ### Другие мои проекты (все на Vercel)
+ - **Yandex Development — Telegram Mini App + Web Platform**
+
+Командная разработка внутренней платформы и Telegram Mini App.
+
+В рамках проекта:
+
+* реализовал переиспользуемые UI-компоненты;
+* разработал InputSearch с debounce и autocomplete;
+* внедрил централизованную обработку ошибок Axios;
+* создал API_ROUTES для унификации API-путей;
+* подключал модальные окна и UI-логику;
+* участвовал в разработке frontend-архитектуры.
+
+Repository:
+[https://github.com/yandex-development-1-team/web](https://github.com/yandex-development-1-team/web)
+
+
+   ### 🌐 Other Frontend Projects (все на Vercel)
 
 Вот несколько проектов, которые я сделал для практики фронтенда:
 
