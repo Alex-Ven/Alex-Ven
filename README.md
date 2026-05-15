@@ -50,6 +50,11 @@
    [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alex-Ven/bad-server)  
    [![Live Demo](https://img.shields.io/badge/Live_Demo-007ACC?style=for-the-badge&logo=render&logoColor=white)](https://weblarek-bad-server-frontend.onrender.com)
 
+### Командные проекты
+
+- Yandex Development — Telegram Mini App + Web Platform  
+  https://github.com/yandex-development-1-team/web
+
    ### Другие мои проекты (все на Vercel)
 
 Вот несколько проектов, которые я сделал для практики фронтенда:
